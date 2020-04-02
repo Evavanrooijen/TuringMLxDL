@@ -8,7 +8,7 @@ In seven weeks, we will cover end-to-end Data Science. This means that we will t
 ### Team
 
 We are a group of five:
-- Eva!
+- Eva! [a relative link](contact.md)
 - Vikram
 - Pedro
 - Kyara

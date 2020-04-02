@@ -21,13 +21,27 @@ linkedin images
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
+### Prerequisites
+- Machine Learning Theory: studied some of the common models either in an online courses or academic studies
+- Python: experience with pandas and optionally: scikit-learn, numpy, pytorch, keras
+
 ### Curriculum
 
-#### Week 1: Data Collection and Exploratory Analysis
+#### Week 1: Data Collection and Exploratory Analysis $ X $
 - Web Scraping
 - pandas
 
-#### Week 2: Unsupervised Machine Learning
+#### Week 2: Unsupervised Machine Learning  $ f(x) $
+
+#### Week 3: Supervised Machine Learning  $ f(x, y) $
+
+#### Week 4: Deep Learning (Theory)  $ f(f(x, y)) $
+
+#### Week 5: Computer Vision
+
+#### Week 6: Natural Language Processing
+
+#### Week 7: Reinforcement Learning
 
 ### Support or Contact
 

@@ -1,7 +1,3 @@
-layout: page
-title: "Contact"
-permalink: /contact
-
 ## Welcome to the Turing MLxDL course
 ### Learn, _by doing_
 

@@ -1,28 +1,21 @@
-## Welcome to GitHub Pages
+## Welcome to the Turing MLxDL course
+### Learn, _by doing_
 
-You can use the [editor on GitHub](https://github.com/Evavanrooijen/TuringMLxDL/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+`HelloWorld!` We are Data Science enthusiasts, MOOC junkies, code geeks.... We have collected our favorite educational resources and formed them into this course. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In seven weeks, we will cover end-to-end Data Science. This means that we will touch upon various methods and applications. Throughout the course you will be working on a (team) project. By working on a topic that interests you (medicine, finance, marketing, food..), it will be easier to stick with the (complicated) theory and understand *why* it is important to learn certain things.
 
-### Markdown
+### Team
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We are a group of five:
+- Eva!
+- Vikram
+- Pedro
+- Kyara
+- Eunji
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
+linkedin images
 [Link](url) and ![Image](src)
 ```
 

@@ -1,6 +1,7 @@
 # Unsupervised Machine Learning
 Sides
-[Additional Resources] (https://github.com/Evavanrooijen/TuringMLxDL/tree/master/Week2%20Unsupervised%20Learning)
+[Eva](https://evavanrooijen.github.io/)
+[Additional Resources] (https://github.com/Evavanrooijen/TuringMLxDL/blob/master/Week2%20Unsupervised%20Learning/)
 [ ] add materials
 
 

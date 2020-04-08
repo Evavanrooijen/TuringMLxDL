@@ -32,7 +32,7 @@ Data is everywhere! Did you know that only 5 percent of the information is only 
 Tools like web scraping help you collect data. Databases are the storage units for your data.
 To-Do : add cloud computing information
 
-#### Week 2: Unsupervised Machine Learning [more info](USL.md)
+#### [Week 2: Unsupervised Machine Learning](USL.md)
 Exploratory Data Analysis
 Clustering, DImREd to help aid information overload
 

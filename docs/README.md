@@ -27,6 +27,8 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Curriculum
 
+#### [Week 0: Initialization](initialization.md)
+
 #### Week 1: Data Collection and Exploratory Analysis $ X $[more info](Data.md)
 Data is everywhere! Did you know that only 5 percent of the information is only privately available?
 Tools like web scraping help you collect data. Databases are the storage units for your data.

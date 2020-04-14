@@ -2,26 +2,36 @@
 ## Notebooks
 ### 0 - Fundamental
 [] notebook runs without errors (data is available)
+
 [] clearly structured using headers: Data, Models, Results
+
 [] includes both code and textual explanations
+
 [] clear references to blogs/kaggle and all other sources (URL is sufficient)
+
 [] sufficient 'work', show you did not just copy&paste but also understand what is happening
 
 ### 1 - Data
 * Data Collection
+
 Explain where your data comes from. If you have collected the data yourself, include the code otherwise include the source.
 
 * Exploratory Data Analysis
+
 Find some interesting things about your dataset and discuss them. Use descriptive statistics, plots, etc.
 
 * Unsupervised Machine Learning
+
 Apply an Unsupervised algorithm to find clusters or reduce dimensionality.
 Explain the algorithm you used (intuitively) and interpret the results.
 
 ### 2 - Models
 * Supervised Machine Learning
+
 Describe the label and any feature preprocessing.
+
 Apply a Supervised algorithm to predict this label.
+
 Explain the algorithm you used (intuitively) and interpret the results.
 
 * Deep / Ensemble Learning (Random Forest, XGBoost, AdaBoost)
